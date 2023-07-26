@@ -13,7 +13,7 @@
   &nbsp &nbsp 
   <img src="https://github.com/DeMazGH/Images/blob/main/icons/email.png" title="Email" alt="Email" width="26" height="26" align="center" 
     style="margin-bottom: 4px;" /> &nbsp
-  &nbsp Email &nbsp - &nbsp <a href="demaz@bk.ru">demaz@bk.ru </a> </h3>
+  &nbsp Email &nbsp - &nbsp <a href="mailto:demaz@bk.ru">demaz@bk.ru </a> </h3>
   
 <hr>
 

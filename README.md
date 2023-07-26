@@ -6,12 +6,12 @@
 <hr>
 
 <h3 align="center">  
-  <img src="https://github.com/DeMazGH/Images/blob/main/icons/tg-app-icon.svg" title="Tg" alt="Th" width="26" height="26" align="center" 
+  <img src="https://github.com/DeMazGH/DeMazGH/blob/main/images/icons/tg-app-icon.svg" title="Tg" alt="Tg" width="26" height="26" align="center" 
     style="margin-bottom: 4px;" /> &nbsp
   Telegram &nbsp - &nbsp <a href="https://t.me/de_maz">@de_maz </a> &nbsp &nbsp &nbsp 
   | 
   &nbsp &nbsp 
-  <img src="https://github.com/DeMazGH/Images/blob/main/icons/email.png" title="Email" alt="Email" width="26" height="26" align="center" 
+  <img src="https://github.com/DeMazGH/DeMazGH/blob/main/images/icons/email-icon.png" title="Email" alt="Email" width="26" height="26" align="center" 
     style="margin-bottom: 4px;" /> &nbsp
   &nbsp Email &nbsp - &nbsp <a href="mailto:demaz@bk.ru">demaz@bk.ru </a> </h3>
   

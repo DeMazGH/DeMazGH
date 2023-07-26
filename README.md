@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center"> Привет, меня зовут Денис 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**DeMazGH/DeMazGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Прошел курс обучения на платформе SkyPro, изучаю и работаю с Java больше 1 года. </h3>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">  
+  <img src="https://github.com/DeMazGH/Images/blob/main/icons/tg-app-icon.svg" title="Tg" alt="Th" width="26" height="26" align="center" 
+    style="margin-bottom: 4px;" /> &nbsp
+  Telegram &nbsp - &nbsp <a href="https://t.me/de_maz">@de_maz </a> &nbsp &nbsp &nbsp 
+  | 
+  &nbsp &nbsp 
+  <img src="https://github.com/DeMazGH/Images/blob/main/icons/email.png" title="Email" alt="Email" width="26" height="26" align="center" 
+    style="margin-bottom: 4px;" /> &nbsp
+  &nbsp Email &nbsp - &nbsp <a href="demaz@bk.ru">demaz@bk.ru </a> </h3>
+  
+<hr>
+
+<h3 align="center">:mortar_board: Технологии, которыми я владею :</h3>
+
+<div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;	
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>	
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="Google" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
+</div>
+
+<hr>

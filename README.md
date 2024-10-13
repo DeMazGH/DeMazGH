@@ -1,7 +1,7 @@
 <h1 align="center"> Привет, меня зовут Денис 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Люблю программировать и изучать новые для меня технологии. Основной язык Java, пишу на нем более 2,5 лет. </h3>
+<h3 align="center">Люблю программировать и изучать новые для меня технологии. <br/> Основной язык Java, пишу на нем более 2,5 лет. </h3>
 
 <hr>
 
